@@ -72,7 +72,7 @@ Har bir token **embedding vector** ga o‘tkaziladi:
 Embedding dimension:
 
 ```
-d_model = 128
+d_model = 512
 ```
 
 Output shape:
